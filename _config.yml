@@ -3,6 +3,7 @@ description:      A portfolio documenting the process to develop a digital human
 url:              http://burnsr77.github.io/EvaluatingImpact
 signoff:          Ryan Burns
 disqus_shortname: rbuw
+baseurl:          /EvaluatingImpact
 #facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 #google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
