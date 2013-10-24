@@ -24,7 +24,7 @@ links:
     url:          http://github.com/burnsr77
     external:     true
 pygments:         true
-permalink:        /:categories/:year/:month/:day/:title/
+permalink:        EvaluatingImpact/:categories/:year/:month/:day/:title/
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
