@@ -8,9 +8,9 @@ disqus_shortname: rbuw
 
 links:
   - name:         About
-    url:          /EvaluatingImpact/about
+    url:          /EvaluatingImpact/About
   - name:         Archive
-    url:          /EvaluatingImpact/archive
+    url:          /EvaluatingImpact/Archive
   - name:         Personal Blog
     url:          http://burnsr77.github.io
     external:     true
