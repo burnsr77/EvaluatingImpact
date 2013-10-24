@@ -2,97 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evaluating Impact</title>
-    <description>A portfolio documenting the process to develop a digital humanitarian impact evaluation framework.</description>
+    <description>A portfolio documenting the process to develop a digital humanitarian impact evaluation framework. See the "About" page for more information!</description>
     <link>http://burnsr77.github.io/EvaluatingImpact</link>
     <atom:link href="http://burnsr77.github.io/EvaluatingImpact/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Scribble, a Jekyll theme</title>
-        <description>&lt;p&gt;I have other themes, checkout (mainly) &lt;a href=&quot;https://github.com/muan/muan.github.com/releases&quot;&gt;this repository&lt;/a&gt; and &lt;a href=&quot;https://github.com/muan/jekyll-wardrobe&quot;&gt;this repository&lt;/a&gt;. &amp;lt;3&lt;/p&gt;
+        <title>The Portfolio Is Up!</title>
+        <description>&lt;p&gt;The research is really starting to kick off now, with some interviews scheduled and data being archived! We&amp;rsquo;re looking for a research assistant to help with the interviews and transcription, for which I&amp;rsquo;ve written a statement of work (find it in the &lt;a href=&quot;/archive&quot;&gt;archive&lt;/a&gt;). As the project goes into high gear expect to see this site become more substantial.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;This site evidences the dual work I&amp;rsquo;m conducting on the project. It&amp;rsquo;s both a research project for UN OCHA and my practicum in partial fulfillment of the requirements for the Simpson Center for the Humanities&amp;rsquo;s public scholarship certificate program. A major step this week toward the latter goal was actually just getting this site up and running! As simple as GitHub pages can be, establishing your site involves following a large list of steps from multiple sources. For example and for my techie readers, this site is a &lt;a href=&quot;https://github.com/burnsr77/EvaluatingImpact&quot;&gt;GitHub repository&lt;/a&gt; with GitHub Pages enabled; &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is the site generator (requires a &lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt; installation) and the theme is &lt;a href=&quot;http://scribble.muan.co/&quot;&gt;Scribble&lt;/a&gt; by &lt;a href=&quot;http://muan.co/&quot;&gt;Mu-An&lt;/a&gt;. The documentation is very good all the way through, but I made a couple novice mistakes that set me &lt;em&gt;way&lt;/em&gt; back.&lt;/p&gt;
 
-&lt;p&gt;There is no clever design philosophy to talk about, I tried to find something to work with, and &amp;lsquo;scribble&amp;rsquo; came to my mind. This theme uses Open Sans powered by Google Web Fonts, and was written in plain HTML, SCSS &amp;amp; CoffeeScript, though .scss &amp;amp; .coffee files wouldn&amp;rsquo;t be included in the theme.&lt;/p&gt;
+&lt;p&gt;As I discuss in the &lt;a href=&quot;/about&quot;&gt;&amp;ldquo;About&amp;rdquo;&lt;/a&gt; page, I want to use this site in two stages. In the first I will use the site for more or less all the data I collect and to document the research process. In the second I will repurpose the site to communicate this idea of &amp;ldquo;public scholarship&amp;rdquo; &amp;ndash; what it means for me, evidence toward that identity, and to show how that idea influenced this particular research project&amp;rsquo;s progression. As I write this I also think about my project&amp;rsquo;s connections with the &lt;a href=&quot;http://en.wikipedia.org/wiki/Digital_humanities&quot;&gt;digital humanities&lt;/a&gt; (not to be confused with digital humanit&lt;em&gt;arianism&lt;/em&gt;!), the field exploring the role of new technologies in teaching, reading, creativity, and critical thinking. In a sense I&amp;rsquo;m building on some of those conversations by using technology to speak to multiple audiences (hopefully educating, ideally provoking critical reflection, definitely encouraging reading) and to mediate my own research process through technologies. I&amp;rsquo;m less interested in the computational side of the digital humanities, rather I&amp;rsquo;m interested in it as a means of communication.&lt;/p&gt;
 
-&lt;p&gt;The theme is mobile optimised but I did not check browser compatibility. It looks great in Chrome, Safari and Firefox though.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble&quot; target=&quot;_blank&quot; class=&quot;big-button gray&quot;&gt;Get it on GitHub &amp;hearts;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3&gt;Get started&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/muan/scribble/fork&quot;&gt;Fork the repository&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Clone the repository to your computer.&lt;br /&gt; &lt;code&gt;git clone https://github.com/username/scribble&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;bundle install&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;If using older versions of Jekyll&lt;/strong&gt;&lt;br /&gt;
-Build and run jekyll using &lt;code&gt;jekyll --server --auto&lt;/code&gt;.&lt;br /&gt;
-&lt;strong&gt;If using &lt;a href=&quot;http://blog.parkermoore.de/2013/05/06/jekyll-1-dot-0-released/&quot;&gt;Jekyll 1.0&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-Build Jekyll using &lt;code&gt;jekyll build&lt;/code&gt;.&lt;br /&gt;
-Then run Jekyll using &lt;code&gt;jekyll serve --watch&lt;/code&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Go to http://localhost:4000 for your site.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;hr /&gt;
-
-&lt;h3&gt;Make it yours&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;I have extract most user specific information to &lt;code&gt;_config.yml&lt;/code&gt;, you should be able to set up almost everything from it.&lt;/li&gt;
-&lt;li&gt;Change about.md for blog intro.&lt;/li&gt;
-&lt;li&gt;For domain settings, see &lt;a href=&quot;https://help.github.com/articles/setting-up-a-custom-domain-with-pages&quot;&gt;the guide from GitHub&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;hr /&gt;
-
-&lt;h3&gt;Options&lt;/h3&gt;
-
-&lt;p&gt;When writing a post, there are 3 options you can add to the header.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;disqus: y&lt;/strong&gt;&lt;br /&gt;
-If disqus is set to &amp;lsquo;y&amp;rsquo;, at the end of the post there will be a disqus thread, just like this one. To use disqus, you MUST &lt;a href=&quot;http://disqus.com/&quot;&gt;set up your own disqus account&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;share: y&lt;/strong&gt;&lt;br /&gt;
-An option for showing tweet and like button under a post.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;date&lt;/strong&gt;: 2013-05-06 18:07:17&lt;br /&gt;
-Date is not a required header since Jekyll reads the file name for date, this was added in only for the &lt;strong&gt;signoff time&lt;/strong&gt;. (as shown at the end of this post) If you don&amp;rsquo;t want the signoff time, go into &lt;code&gt;/includes/signoff.html&lt;/code&gt; and remove the &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/muan/scribble&quot; target=&quot;_blank&quot; class=&quot;big-button gray&quot;&gt;Get it on GitHub &amp;hearts;&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3&gt;The end&lt;/h3&gt;
-
-&lt;p&gt;Like it? &lt;a href=&quot;http://twitter.com/muanchiou&quot;&gt;Tell me&lt;/a&gt;.&lt;br/&gt;
-Problem? &lt;a href=&quot;https://github.com/muan/scribble&quot;&gt;Use GitHub Issues&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am a scholar intrigued by the social and political implications of technologies. This raises several provocations for my research project. What are the social and political implications of my developing this impact evaluation framework? What kinds of assumptions are embedded in the fact that I think one &lt;em&gt;can&lt;/em&gt; evaluate or measure the impact of a digital humanitarian project? Is this research project establishing new systems of inclusion/exclusion, and if so, who is left out? Regarding my choice to use a portfolio explaining these ideas, what are the effects this will have in contrast with other formats, like focusing on peer-reviewed publications or writing a policy white paper? Can I do all three and remain true to my double-responsibility as academic and practitioner? This paragraph could easily descend into more navel-gazing, so I will reflect on these questions and perhaps offer some answers in future posts.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 May 2013 09:27:31 -0700</pubDate>
-        <link>http://burnsr77.github.io/EvaluatingImpact/2013/05/06/scribble-the-jekyll-theme/</link>
-        <guid isPermaLink="true">http://burnsr77.github.io/EvaluatingImpact/2013/05/06/scribble-the-jekyll-theme/</guid>
+        <pubDate>Wed, 23 Oct 2013 09:27:31 -0700</pubDate>
+        <link>http://burnsr77.github.io/EvaluatingImpact/EvaluatingImpact/2013/10/23/portfolio-is-up</link>
+        <guid isPermaLink="true">http://burnsr77.github.io/EvaluatingImpact/EvaluatingImpact/2013/10/23/portfolio-is-up</guid>
       </item>
     
       <item>
-        <title>Placeholder post</title>
-        <description>&lt;p&gt;I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
+        <title>Getting Started</title>
+        <description>&lt;p&gt;This week I spoke with my primary collaborator, Kenny Meesters, to really begin the meat of our research project. We also had on the line Svend-Jonas, a master&amp;rsquo;s student in geography at Heidelberg University, who may be interested in either contributing to our project or extending out from it for his master&amp;rsquo;s degree research. We reiterated that our immediate goals are to schedule a few interviews, review the literature on evaluation frameworks, and talk to others who have conducted similar projects.&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;Boom. I am a blockquote.&lt;/p&gt;
+&lt;p&gt;In terms of auspicious beginning points, there are a few key organizations and individuals we hope will launch us into the project. The Assessment Capacities Project (ACAPS) and  Active Learning Network for Accountability and Performance in Humanitarian Action (ALNAP) both produce evaluation systems and commentaries on the evaluation process. Kenny and I have both been interviewed by a researcher at UN OCHA for a related research project, and we are confident they will share their data with us. Thus, in addition to our original research we also will analyze data from a closely related project. Being a member of the community will help us enormously, and in fact is the reason we decided on this particular project! Finding people to interview will come easily for us because we&amp;rsquo;re already well-connected.&lt;/p&gt;
 
-&lt;p&gt;Say something really clever here.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I have begun building the technological infrastructure for the future portfolio. This is not yet meant for presentation; right now into this infrastructure I am placing everything playing a role in the practicum project. This approach, similar to the one I took when developing my first portfolio in the certificate program &amp;ndash; archive now, process and present later. I&amp;rsquo;m going to try to use GitHub for this.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
+&lt;p&gt;Already, quite early in the practicum project, I&amp;rsquo;m reminded of the challenge involved in &lt;em&gt;performing&lt;/em&gt; public scholarship (that is, distinct from &lt;em&gt;communicating&lt;/em&gt; or learning how to &lt;em&gt;identify&lt;/em&gt; a public scholarly identity). It seems possible that being a public scholar involves not just a [think of a synonym &amp;ndash; distinct] set of practices and approach to the research practice, but also notably &lt;em&gt;more&lt;/em&gt; work. On the one hand as an academic researcher I conduct research programs for their intellectual merit and must firstly develop this contribution; on the other hand, I am also responsible for ensuring my public understands and has indeed helped me locate my practice-based contributions. In my case, I hope to build understanding of the social, economic, and political implications of new technologies; but I also need to translate these implications into transformed digital humanitarian practices. Imagine a better way of &lt;em&gt;doing&lt;/em&gt; digital humanitarianism that ameliorates some of the more problematic theoretical implications of digital humanitarian technologies. Does this mean that my task as a public scholar is necessarily one that [think of a synonym &amp;ndash; involves] more work than traditional scholarship? If so, it&amp;rsquo;s still a small price to pay for the payoffs of a properly-impacting, community-engaged approach to research.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 May 2013 08:27:31 -0700</pubDate>
-        <link>http://burnsr77.github.io/EvaluatingImpact/2013/05/06/more-post/</link>
-        <guid isPermaLink="true">http://burnsr77.github.io/EvaluatingImpact/2013/05/06/more-post/</guid>
+        <pubDate>Tue, 15 Oct 2013 08:27:31 -0700</pubDate>
+        <link>http://burnsr77.github.io/EvaluatingImpact/EvaluatingImpact/2013/10/15/getting-started</link>
+        <guid isPermaLink="true">http://burnsr77.github.io/EvaluatingImpact/EvaluatingImpact/2013/10/15/getting-started</guid>
       </item>
     
   </channel>
