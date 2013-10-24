@@ -2,6 +2,7 @@
 layout: post
 title: The Portfolio Is Up!
 date: 2013-10-23 16:27:31
+permalink: /EvaluatingImpact/2013/10/portfolio-is-up/
 disqus: y
 ---
 
