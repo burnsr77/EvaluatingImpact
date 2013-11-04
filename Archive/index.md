@@ -3,6 +3,12 @@ layout: page
 title: Archive
 ---
 
+**Documents we have produced**
+
+- [*Statement of Work* for a research assistant]({{ site.baseurl }}/_assets/docs/workStatement.docx) *We are hiring a research assistant to help with the interviews. The RA will conduct a small number of interviews and transcribe them.*
+
+- [Research proposal](({{ site.baseurl }}/_assets/docs/proposal.docx) *This is the proposal we submitted to OCHA.*
+
 **Other impact evaluation frameworks**
 
 - [Ushahidi Kenya Evaluation: Toolboxes](http://blog.ushahidi.com/2012/10/30/ushahidi-kenya-evalution-toolboxes/)
