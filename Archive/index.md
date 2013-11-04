@@ -5,9 +5,9 @@ title: Archive
 
 **Documents we have produced**
 
-- [*Statement of Work* for a research assistant]({{ site.baseurl }}/assets/docs/workStatement.docx) *We are hiring a research assistant to help with the interviews. The RA will conduct a small number of interviews and transcribe them.*
+- [*Statement of Work* for a research assistant]({{ site.baseurl }}/docs/workStatement.docx) *We are hiring a research assistant to help with the interviews. The RA will conduct a small number of interviews and transcribe them.*
 
-- [Research proposal](({{ site.baseurl }}/assets/docs/proposal.docx) *This is the proposal we submitted to OCHA.*
+- [Research proposal](({{ site.baseurl }}/docs/proposal.docx) *This is the proposal we submitted to OCHA.*
 
 **Other impact evaluation frameworks**
 
