@@ -1,0 +1,16 @@
+---
+layout: post
+title: Readings on evaluation frameworks
+date: 2013-11-27 16:27:31
+disqus: y
+---
+
+Over the last couple weeks I've been extensively reviewing the literature on evaluation frameworks. I have to admit to a bit of surprise seeing the incredibly rich research in this area, and conducting the literature review has already done the two things it is supposed to do: 1) challenge me to rethink the evaluation framework I and my colleagues are developing, and 2) tease out where, exactly, our evaluation framework fits within the research literature on evaluation frameworks. I will ashamedly confess that until now I've been describing our project as one to develop an "impact evaluation framework" looking at real-time impacts, without realizing that "real-time evaluation frameworks" and "impact evaluation frameworks" can be distinguished in approach, motivations, and execution tactics. My training at UW has been extremely useful in this literature review, as I've been able to connect all the way up to the broadest conceptual level; that is, drawing connections between our specific impact evaluation framework and the larger enterprise of evaluating.
+
+Coming from a social science background, I'm having most trouble grappling with one aspect of these readings. The papers do not often leave any analytical room for uncertainty, gaps in knowledge, or future questions; in other words, the readings usually orient around communicating a "known" truth, rather than answering a pressing research question. I've been keeping an eye out for - as is common practice in the social sciences - "limitations" or "future research directions." Because *what should go into an evaluation framework* is always informed by concepts, research, and theory.
+
+I suppose this raises a bigger question of the link between research and evaluations. The "best practices" and other metrics known to be crucial to an evaluation framework - those all came from the hard intellectual labor of research. We don't just "know" something through repetitious experience; we gather enough knowledge about cases to abstract general ideas that guide evaluation framework development. And, of course, these abstractions - read: theories - must necessarily change through time and place as spatial and temporal contexts are always the necessary conditions for knowledge. This is important to acknowledge because, once we admit this, there will *always* be research questions, always be things we don't yet know about evaluation frameworks, always be theories that no longer explain an impact evaluation framework's implications in a given context.
+
+The easy thing for me to say is that a real-time impact evaluation framework has not yet been developed for the digital humanitarian context. However, what I'd really like to explain is *why* the other evaluation frameworks can't explain what one observes in digital humanitarianism. What is it about this particular set of social, political, and economic relations in digital humanitarianism that makes it unfitting for existing frameworks? And by extension, how does one determine which metrics - which criteria - might be germane for particular contexts and not others?
+
+I suspect I'll have to reserve these questions for an academic audience.
