@@ -5,6 +5,8 @@ title: Bibliography
 
 **Bibliography**
 
+Bamberger, M., J. Rugh, and L. Mabry. 2011. RealWorld Evaluation: Working under Budget, Time, Data, and Political Constraints 2nd Edition. Thousand Oaks, CA: Sage Publications.   
+
 Bergeri, I. 2011. OCG Response to Cholera in Haiti, October 2010 - March 2011. Medecins Sans Frontieres. http://evaluation.msf.at/fileadmin/evaluation/files/documents/reports/Eval_Report_Cholera_Haiti_external_Dec_2011.pdf (last accessed 5 December 2014).   
 
 Chelimsky, E. 1995. Preamble: New Dimensions in Evaluation. In Evaluating Country Development Policies and Programs: New Approaches for a New Agenda, New Directions for Evaluation., eds. R. Picciotto and R. Rist. San Francisco: Jossey-Bass Publishers.   
