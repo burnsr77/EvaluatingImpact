@@ -12,18 +12,10 @@ links:
     url:          /EvaluatingImpact/About
   - name:         Archive
     url:          /EvaluatingImpact/Archive
-  - name:         Personal Blog
-    url:          http://burnsr77.github.io
-    external:     true
-  - name:         Email
-    url:          mailto:burnsr77@gmail.com
-    external:     true
-  - name:         Twitter
-    url:          http://twitter.com/burnsr77
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/burnsr77
-    external:     true
+  - name:         Bibliography
+    url:          /EvaluatingImpact/References
+  - name:         Contact
+    url:          /EvaluatingImpact/Contact
 pygments:         true
 permalink:        /:categories/:year/:month/:day/:title/
 markdown:         rdiscount
